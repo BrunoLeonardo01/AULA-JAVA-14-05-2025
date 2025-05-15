@@ -1,0 +1,29 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+    font-style: italic;
+
+}
+form{
+    background-color: silver;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    display: flexbox;
+    min-width: 30%;
+    min-height: 30%;
+    width: auto;
+    height: auto;
+}
+label{
+    width: 160px;
+}
+.claro{
+    background-color: #fff;
+    color: aquamarine;
+}
+.escuro{
+    background-color: black;
+    color: yellowgreen;
+}
